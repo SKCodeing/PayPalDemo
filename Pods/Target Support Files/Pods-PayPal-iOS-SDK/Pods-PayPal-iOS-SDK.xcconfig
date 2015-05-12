@@ -1,0 +1,2 @@
+PODS_PAYPAL_IOS_SDK_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/PayPal-iOS-SDK/PayPalMobile"
+PODS_PAYPAL_IOS_SDK_OTHER_LDFLAGS = -ObjC -l"PayPalMobile" -l"c++" -framework "AVFoundation" -framework "Accelerate" -framework "AudioToolbox" -framework "CoreLocation" -framework "CoreMedia" -framework "MessageUI" -framework "MobileCoreServices" -framework "SystemConfiguration"
